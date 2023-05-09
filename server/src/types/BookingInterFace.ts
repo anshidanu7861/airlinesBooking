@@ -15,5 +15,6 @@ export interface BookingDataInerface {
     email: string,
     phone: string,
     fname: string,
-    class: string
+    class: string,
+    date: string
 }

@@ -28,7 +28,7 @@ export default function NavBar() {
   }
 
   return (
-    <Disclosure as="nav" className="bg-gradient-to-l from-white  to-gray-400">
+    <Disclosure as="nav" className="bg-orange-500">
       {({ open }) => (
         <>
           <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">

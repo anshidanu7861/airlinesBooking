@@ -49,7 +49,12 @@ const bookingSchema = new mongoose.Schema({
     user:{
         type: mongoose.Types.ObjectId,
         ref : "userModel"
+    },
+    date: {
+        type: String
     }
+},{
+    timestamps: true
 })
 
 const bookingModel =  mongoose.model('bookingData', bookingSchema)
