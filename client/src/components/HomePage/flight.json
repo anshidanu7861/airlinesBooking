@@ -1,0 +1,75 @@
+[
+    {
+        "flight_number": "KL345",
+        "airline": "KLM Royal Dutch Airlines",
+        "departure_city": "Mumbai",
+        "departure_airport": "Amsterdam Airport Schiphol",
+        "destination_city": "Dubai",
+        "destination_airport": "Indira Gandhi International Airport",
+        "departure_date": "2023-07-01",
+        "departure_time": "08:45",
+        "arrival_date": "2023-07-01",
+        "arrival_time": "22:10"
+    },
+    {
+        "flight_number": "UA678",
+        "airline": "United Airlines",
+        "departure_city": "Los Angeles",
+        "departure_airport": "Los Angeles International Airport",
+        "destination_city": "New York",
+        "destination_airport": "John F. Kennedy International Airport",
+        "departure_date": "2023-08-15",
+        "departure_time": "11:30",
+        "arrival_date": "2023-08-15",
+        "arrival_time": "19:45"
+    },
+    {
+        "flight_number": "EK789",
+        "airline": "Emirates",
+        "departure_city": "Mumbai",
+        "departure_airport": "Dubai International Airport",
+        "destination_city": "Dubai",
+        "destination_airport": "Heathrow Airport",
+        "departure_date": "2023-09-10",
+        "departure_time": "05:15",
+        "arrival_date": "2023-09-10",
+        "arrival_time": "10:25"
+    },
+    {
+        "flight_number": "AF123",
+        "airline": "Air France",
+        "departure_city": "Paris",
+        "departure_airport": "Charles de Gaulle Airport",
+        "destination_city": "Tokyo",
+        "destination_airport": "Narita International Airport",
+        "departure_date": "2023-10-05",
+        "departure_time": "13:10",
+        "arrival_date": "2023-10-06",
+        "arrival_time": "08:45"
+    },
+    {
+        "flight_number": "DL456",
+        "airline": "Delta Air Lines",
+        "departure_city": "Atlanta",
+        "departure_airport": "Hartsfield-Jackson Atlanta International Airport",
+        "destination_city": "Paris",
+        "destination_airport": "Charles de Gaulle Airport",
+        "departure_date": "2023-11-20",
+        "departure_time": "20:30",
+        "arrival_date": "2023-11-21",
+        "arrival_time": "11:45"
+    },
+    {
+        "flight_number": "BA234",
+        "airline": "British Airways",
+        "departure_city": "London",
+        "departure_airport": "Heathrow Airport",
+        "destination_city": "Hong Kong",
+        "destination_airport": "Hong Kong International Airport",
+        "departure_date": "2023-12-15",
+        "departure_time": "06:45",
+        "arrival_date": "2023-12-15",
+        "arrival_time": "23:10"
+    
+       
+    }]
