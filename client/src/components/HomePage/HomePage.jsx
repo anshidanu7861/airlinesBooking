@@ -51,7 +51,7 @@ function HomePage() {
                                         <label for="date" className="text-teal-950 font-bold">Date:</label>
                                         <input type="date" id="date" name="date" className="border border-gray-300 p-2 rounded w-full hover:bg-gray-100" min="2023-05-10" />
                                       </div>
-                                      <div className="ml-4">
+                                      <div className="ml-4 pt-5">
                                         <button type="submit" className="bg-orange-500 text-white px-4 py-2 rounded hover:bg-orange-600 transition-colors">Search Flights</button>
                                       </div>
                                     </div>
